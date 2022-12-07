@@ -1,0 +1,1 @@
+# to-find-the-nth-prime-palindrome-number-using-python
